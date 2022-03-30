@@ -11,8 +11,8 @@ export default function App() {
     <DashboardContextProvider>
     <Sidebar />
       <Routes>
-        <Route path="/" element={<DashboardFinance />} />
-        <Route path="/dashboard-employees" element={<DashboardEmployees />} />
+        <Route path="/react-chartjs-dashboard/" element={<DashboardFinance />} />
+        <Route path="/react-chartjs-dashboard/dashboard-employees" element={<DashboardEmployees />} />
       </Routes>
 
     </DashboardContextProvider>
