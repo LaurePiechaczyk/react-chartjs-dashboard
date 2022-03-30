@@ -9,7 +9,7 @@ export default function BarChart() {
   return (
     <div className="chart-container">
     
-    <Bar />
+ 
     </div>
   )
 }
