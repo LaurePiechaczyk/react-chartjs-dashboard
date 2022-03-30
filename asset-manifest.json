@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-chartjs-dashboard/static/css/main.75c3a7f7.css",
+    "main.js": "/react-chartjs-dashboard/static/js/main.88b40fce.js",
+    "static/media/analytics.svg": "/react-chartjs-dashboard/static/media/analytics.57089a623fd4df23af3ff6e85326f5d3.svg",
+    "index.html": "/react-chartjs-dashboard/index.html",
+    "main.75c3a7f7.css.map": "/react-chartjs-dashboard/static/css/main.75c3a7f7.css.map",
+    "main.88b40fce.js.map": "/react-chartjs-dashboard/static/js/main.88b40fce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75c3a7f7.css",
+    "static/js/main.88b40fce.js"
+  ]
+}
