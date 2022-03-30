@@ -7,8 +7,8 @@ export default function Sidebar() {
   return (
     <nav className="sidenav">
     <img src={iconDashboard} alt="icone analytics" />
-    <Link to="/">FINANCES</Link>
-    <Link to="/dashboard-employees">EMPLOI</Link>
+    <Link to="/">FINANCE</Link>
+    <Link to="/dashboard-employees">EMPLOYMENT</Link>
 </nav>
   )
 }
